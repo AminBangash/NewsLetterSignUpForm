@@ -1,4 +1,7 @@
 body {
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
     background-color: rgb(46, 46, 90);
     color: black;
 }
